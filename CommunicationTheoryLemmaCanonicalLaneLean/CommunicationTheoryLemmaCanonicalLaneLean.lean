@@ -1,0 +1,10 @@
+import CommunicationTheoryLemmaCanonicalLaneLean.AdmissibleClass
+import CommunicationTheoryLemmaCanonicalLaneLean.BridgeLemmas
+import CommunicationTheoryLemmaCanonicalLaneLean.GateLemmas
+import CommunicationTheoryLemmaCanonicalLaneLean.FinalTheorem
+
+namespace HautevilleHouse
+namespace CommunicationTheoryLemmaCanonicalLaneLean
+
+end CommunicationTheoryLemmaCanonicalLaneLean
+end HautevilleHouse
